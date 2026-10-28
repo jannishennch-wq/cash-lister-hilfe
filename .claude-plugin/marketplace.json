@@ -1,0 +1,12 @@
+{
+  "name": "cash-lister-hilfe",
+  "description": "Hilfe-Skill für die Chrome-Extension Cash Lister",
+  "owner": { "name": "jannishennch-wq" },
+  "plugins": [
+    {
+      "name": "cash-lister",
+      "source": "./",
+      "description": "Claude erklärt dir die Bedienung von Cash Lister und jede Meldung"
+    }
+  ]
+}
